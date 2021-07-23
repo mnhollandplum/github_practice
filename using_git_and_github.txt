@@ -1,4 +1,3 @@
 Create local repository
 Create remote repository
 Connect local to remote
-push changes
